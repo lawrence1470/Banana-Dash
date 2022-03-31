@@ -4,7 +4,7 @@
 
 # Live link
 
-<a href='https://lawrence14701.github.io/Banana-Dash/'>Click here to go to live version of Banana Dash</a>
+<a href='https://lawrence1470.github.io/Banana-Dash/'>Click here to go to live version of Banana Dash</a>
 
 # Technologies and languages used
 * JS
